@@ -1,2 +1,2 @@
 # GitBasics-Trap
-Group Tast
+Group Task
